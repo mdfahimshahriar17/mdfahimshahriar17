@@ -1,8 +1,12 @@
 <div align="center">
 
-<h1>MD FAHIM SHAHRIAR</h1>
+# MD FAHIM SHAHRIAR
 
-<h3>Python & Django Developer</h3>
+**Python & Django Developer**
+
+Backend Development · REST APIs · System Design · AI/ML
+
+**Dhaka, Bangladesh 🇧🇩**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfahimshahriar17)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdfahimshahriar.cv)
