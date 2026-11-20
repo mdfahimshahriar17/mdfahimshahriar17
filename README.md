@@ -1,13 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=190&section=header&text=MD%20Fahim%20Shahriar&fontSize=43&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Python%20%26%20Django%20Developer%20%7C%20Backend%20Development%20%7C%20System%20Design&descAlignY=57&descSize=16" width="100%" alt="MD Fahim Shahriar - Python and Django Developer" />
+<h1>MD FAHIM SHAHRIAR</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1100&color=58A6FF&center=true&vCenter=true&width=700&height=75&lines=Building+practical+web+applications;Python+%7C+Django+%7C+DRF+%7C+PostgreSQL;Learning+System+Design+%26+AI%2FML" alt="Developer interests" />
+<h3>Python & Django Developer</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdfahimshahriar17)
-<!-- Add your portfolio once it is live and verified:
-[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdfahimshahriar.cv)
 
 </div>
 
@@ -23,11 +21,11 @@ class Fahim:
         self.interests = ["System Design", "AI/ML"]
 
         self.stack = {
-            "languages": ["Python", "JavaScript", "C", "SQL"],
+            "languages": ["Python", "JavaScript", "SQL"],
             "backend": ["Django", "DRF", "REST APIs"],
             "frontend": ["React", "Tailwind CSS"],
             "databases": ["PostgreSQL", "MySQL"],
-            "tools": ["Git", "GitHub", "Postman"]
+            "tools": ["Git", "GitHub", "Postman", "AI-Assisted Development", "Agentic Coding"]
         }
 
         self.experience = [
@@ -74,12 +72,8 @@ me = Fahim()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 🚀 Selected Projects
-
-- **[Hospital Appointment Management API](https://github.com/mdfahimshahriar17/Hospital-Appointment-Management-System-API)** — Django REST API for doctors, patients, appointments, billing, authentication and role-based access.
-- **[EduHub Learning Management API](https://github.com/mdfahimshahriar17/EduHub-Learning-Management-System-API)** — Backend APIs for learning management, including user authentication and password reset.
-- **[MediCare Clinic Dashboard](https://github.com/mdfahimshahriar17/MediCare-Clinic-Appointment-Dashboard)** — Responsive React dashboard with doctor filtering, appointment forms and summary statistics.
+![AI-Assisted Development](https://img.shields.io/badge/AI--Assisted_Development-334155?style=for-the-badge)
+![Agentic Coding](https://img.shields.io/badge/Agentic_Coding-2563EB?style=for-the-badge)
 
 ## 📊 GitHub Analytics
 
@@ -90,7 +84,7 @@ me = Fahim()
 
 <!-- GitHub stats are provided by a third-party service and may occasionally fail to load. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=110&section=footer" width="100%" alt="Footer" />
+---
 
 <div align="center">
   <b>Always learning. Always building.</b>
